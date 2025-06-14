@@ -39,14 +39,14 @@ const features = [
     title: 'Global Scale',
     description: 'Deploy AI solutions across multiple regions with automatic scaling and localization support.',
     gradient: 'from-indigo-500 to-purple-600',
-    model: <Floating3DModel variant="sphere\" className="scale-75" />,
+    model: <Floating3DModel variant="sphere" className="scale-75" />,
   },
   {
     icon: Cpu,
     title: 'Edge Computing',
     description: 'Run AI models directly on edge devices for ultra-low latency and improved privacy.',
     gradient: 'from-red-500 to-pink-600',
-    model: <Floating3DModel variant="torus\" className="scale-75" />,
+    model: <Floating3DModel variant="torus" className="scale-75" />,
   },
 ];
 
