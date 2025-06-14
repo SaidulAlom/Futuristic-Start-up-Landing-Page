@@ -32,7 +32,7 @@ const features = [
     title: 'Multi-Modal AI',
     description: 'Process text, images, audio, and video simultaneously for comprehensive understanding and analysis.',
     gradient: 'from-blue-500 to-cyan-600',
-    model: <Floating3DModel variant="brain\" className="scale-75" />,
+    model: <Floating3DModel variant="brain" className="scale-75" />,
   },
   {
     icon: Globe,
