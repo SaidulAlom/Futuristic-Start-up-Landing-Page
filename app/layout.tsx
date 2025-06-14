@@ -5,6 +5,7 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://futuristic-start-up-landing-page-mzzg1rk8l.vercel.app'),
   title: 'NeuroFlow AI - Reimagining Intelligence for Everyone',
   description: 'Revolutionary AI platform that transforms how businesses understand and interact with data. Experience the future of artificial intelligence.',
   keywords: 'AI, artificial intelligence, machine learning, data analytics, neural networks, enterprise AI, automation',
