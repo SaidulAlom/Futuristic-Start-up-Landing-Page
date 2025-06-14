@@ -25,7 +25,7 @@ const features = [
     title: 'Enterprise Security',
     description: 'Bank-level encryption and privacy protection ensure your data remains secure while leveraging powerful AI capabilities.',
     gradient: 'from-green-500 to-emerald-600',
-    model: <Floating3DModel variant="torus\" className="scale-75" />,
+    model: <Floating3DModel variant="torus" className="scale-75" />,
   },
   {
     icon: Layers,
