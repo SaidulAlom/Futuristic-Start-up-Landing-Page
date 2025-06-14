@@ -18,7 +18,7 @@ const features = [
     title: 'Lightning Fast',
     description: 'Process millions of data points in real-time with our optimized AI engine built for enterprise-scale performance.',
     gradient: 'from-yellow-500 to-orange-600',
-    model: <Floating3DModel variant="sphere\" className="scale-75" />,
+    model: <Floating3DModel variant="sphere" className="scale-75" />,
   },
   {
     icon: Shield,
