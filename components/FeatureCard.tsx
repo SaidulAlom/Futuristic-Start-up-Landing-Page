@@ -5,7 +5,7 @@ import { DivideIcon as LucideIcon } from 'lucide-react';
 import { ReactNode } from 'react';
 
 interface FeatureCardProps {
-  icon: LucideIcon;
+  icon: React.ComponentType<{ className?: string }>;
   title: string;
   description: string;
   gradient?: string;
